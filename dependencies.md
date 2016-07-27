@@ -1,5 +1,5 @@
 # Google Apps Script Project: locktest
-This repo (locktest) was automatically updated on 07 June 2016 12:57:12 BST by GasGit
+This repo (locktest) was automatically updated on 27 July 2016 10:37:58 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project locktest
