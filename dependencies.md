@@ -1,5 +1,5 @@
 # Google Apps Script Project: locktest
-This repo (locktest) was automatically updated on 27 July 2016 10:37:58 BST by GasGit
+This repo (locktest) was automatically updated on 31 October 2018 11:44:08 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project locktest
@@ -10,15 +10,18 @@ The shared link for [locktest is here](https://script.google.com/d/1MPZafkzt-oKk
 *name*|*type*
 --- | --- 
 Code| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-locktestlib| locktestlib|MuztzKMUHWsUZckigg9MBp6i_d-phDA33|33|no|[here](libraries/locktestlib "library source")
+locktestlib| locktestlib|1w3vIpHcZcVVFcg6BdhdGG9L5IbIGFjFYnXRrrJpJqsNe2UPjzieTDEJw|1|no|[here](libraries/locktestlib "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-locktestlib| locktestlib|MuztzKMUHWsUZckigg9MBp6i_d-phDA33|33|no|[here](libraries/locktestlib "library source")
+locktestlib| locktestlib|1w3vIpHcZcVVFcg6BdhdGG9L5IbIGFjFYnXRrrJpJqsNe2UPjzieTDEJw|1|no|[here](libraries/locktestlib "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
