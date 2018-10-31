@@ -1,0 +1,12 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "locktestlib",
+      "libraryId": "1w3vIpHcZcVVFcg6BdhdGG9L5IbIGFjFYnXRrrJpJqsNe2UPjzieTDEJw",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
